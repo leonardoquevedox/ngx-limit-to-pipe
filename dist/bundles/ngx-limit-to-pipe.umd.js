@@ -1,7 +1,7 @@
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/common'), require('@angular/core')) :
-    typeof define === 'function' && define.amd ? define('ngx-bank-account-br', ['exports', '@angular/common', '@angular/core'], factory) :
-    (factory((global['ngx-bank-account-br'] = {}),global.ng.common,global.ng.core));
+    typeof define === 'function' && define.amd ? define('ngx-limit-to-pipe', ['exports', '@angular/common', '@angular/core'], factory) :
+    (factory((global['ngx-limit-to-pipe'] = {}),global.ng.common,global.ng.core));
 }(this, (function (exports,common,core) { 'use strict';
 
     /**
@@ -83,4 +83,4 @@
 
 })));
 
-//# sourceMappingURL=ngx-bank-account-br.umd.js.map
+//# sourceMappingURL=ngx-limit-to-pipe.umd.js.map
