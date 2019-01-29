@@ -8,7 +8,7 @@
      * @fileoverview added by tsickle
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxLimitToPipe = /** @class */ (function () {
+    var NgxLimitToPipe = (function () {
         function NgxLimitToPipe() {
         }
         /**
@@ -53,7 +53,7 @@
      * @fileoverview added by tsickle
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxLimitToPipeModule = /** @class */ (function () {
+    var NgxLimitToPipeModule = (function () {
         function NgxLimitToPipeModule() {
         }
         NgxLimitToPipeModule.decorators = [
