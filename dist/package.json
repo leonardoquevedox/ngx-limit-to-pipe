@@ -1,6 +1,6 @@
 {
   "name": "ngx-limit-to-pipe",
-  "version": "1.0.0-rc26",
+  "version": "1.0.0-rc28",
   "description": "Simple string truncate and toggle pipe for Angular.io.",
   "main": "bundles/ngx-limit-to-pipe.umd.js",
   "repository": {
